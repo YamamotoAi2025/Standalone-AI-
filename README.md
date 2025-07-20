@@ -83,7 +83,7 @@ Everyone can make standalone AI projects
 
 谷本 淳（Jun Tanimoto）  
 日本・AI独立研究者｜AIと未来の地球環境のために活動中  
-GitHubページ: [https://github.com/]
+GitHubページ: [https://github.com/YamamotoAi2025]
 ---
 
 ## 🕊️ ライセンス
